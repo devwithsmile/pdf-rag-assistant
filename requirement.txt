@@ -12,3 +12,4 @@ fastembed
 pikepdf
 sentence-transformers
 elevenlabs
+pypdf
